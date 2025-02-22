@@ -1,5 +1,5 @@
 # Project Description
-    This project is a Python script that uses Selenium to automate the resolution of a reCAPTCHA v2 challenge on a Google demo page. The script utilizes the anticaptchaofficial library to solve the reCAPTCHA automatically without the need for a proxy.
+This project is a Python script that uses Selenium to automate the resolution of a reCAPTCHA v2 challenge on a Google demo page. The script utilizes the anticaptchaofficial library to solve the reCAPTCHA automatically without the need for a proxy.
 
 ## Requirements
 To run this project, you will need the following libraries and tools:
