@@ -29,6 +29,3 @@ else:
     print(solver.err_string)
     time.sleep(10)
     exit(0)
-
-time.sleep(100)
-
